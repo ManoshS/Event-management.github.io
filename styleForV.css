@@ -1,0 +1,98 @@
+li:hover {
+    text-decoration: underline;
+}
+
+.achievements {
+    padding: 50px 0;
+    background-color: #ababab;
+}
+
+.achievements h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.achievements .achievement-item {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.achievements .achievement-item .icon {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.achievements .achievement-item h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.achievements .achievement-item p {
+    font-size: 16px;
+}
+
+.jumbotron {
+    background-image: url('top.jpg');
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #b39090;
+}
+
+.jumbotron h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 24px;
+}
+
+.services {
+    padding: 50px 0;
+}
+
+.services h2 {
+    margin-bottom: 30px;
+}
+
+.services .service-item {
+    margin-bottom: 30px;
+}
+
+.services .service-item img {
+    max-width: 100%;
+}
+
+.services .service-item h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.services .service-item p {
+    font-size: 16px;
+}
+
+.contact {
+    background-color: #c9c9c9;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.contact h2 {
+    margin-bottom: 30px;
+}
+
+.contact p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.contact .btn {
+    font-size: 18px;
+    padding: 10px 20px;
+}
